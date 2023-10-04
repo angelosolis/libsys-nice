@@ -1,0 +1,25 @@
+Z:\QQ139\Library System\Library System\bin\Debug\Library System.exe.config
+Z:\QQ139\Library System\Library System\bin\Debug\Library System.exe
+Z:\QQ139\Library System\Library System\bin\Debug\Library System.pdb
+Z:\QQ139\Library System\Library System\obj\Debug\Library System.csproj.AssemblyReference.cache
+Z:\QQ139\Library System\Library System\obj\Debug\Library System.csproj.SuggestedBindingRedirects.cache
+Z:\QQ139\Library System\Library System\obj\Debug\Library_System.Form1.resources
+Z:\QQ139\Library System\Library System\obj\Debug\Library_System.Properties.Resources.resources
+Z:\QQ139\Library System\Library System\obj\Debug\Library System.csproj.GenerateResource.cache
+Z:\QQ139\Library System\Library System\obj\Debug\Library System.csproj.CoreCompileInputs.cache
+Z:\QQ139\Library System\Library System\obj\Debug\Library System.exe
+Z:\QQ139\Library System\Library System\obj\Debug\Library System.pdb
+D:\Solis\Library-System-main\Library-System-main\Library System\Library System\obj\Debug\Library System.csproj.AssemblyReference.cache
+D:\Solis\Library-System-main\Library-System-main\Library System\Library System\obj\Debug\Library System.csproj.SuggestedBindingRedirects.cache
+D:\Solis\Library-System-main\Library-System-main\Library System\Library System\obj\Debug\Library_System.frmBook.resources
+D:\Solis\Library-System-main\Library-System-main\Library System\Library System\obj\Debug\Library_System.frmLogin.resources
+D:\Solis\Library-System-main\Library-System-main\Library System\Library System\obj\Debug\Library_System.frmMain.resources
+D:\Solis\Library-System-main\Library-System-main\Library System\Library System\obj\Debug\Library_System.Properties.Resources.resources
+D:\Solis\Library-System-main\Library-System-main\Library System\Library System\obj\Debug\Library System.csproj.GenerateResource.cache
+D:\Solis\Library-System-main\Library-System-main\Library System\Library System\obj\Debug\Library System.csproj.CoreCompileInputs.cache
+D:\Solis\Library-System-main\Library-System-main\Library System\Library System\obj\Debug\Library System.exe
+D:\Solis\Library-System-main\Library-System-main\Library System\Library System\obj\Debug\Library System.pdb
+D:\Solis\Library-System-main\Library-System-main\Library System\Library System\bin\Debug\Library System.exe.config
+D:\Solis\Library-System-main\Library-System-main\Library System\Library System\bin\Debug\Library System.exe
+D:\Solis\Library-System-main\Library-System-main\Library System\Library System\bin\Debug\Library System.pdb
+D:\Solis\Library-System-main\Library-System-main\Library System\Library System\obj\Debug\Library_System.frmBorrow.resources
